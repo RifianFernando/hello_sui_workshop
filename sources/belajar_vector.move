@@ -1,6 +1,5 @@
 module kampus::belajar_vector {
     use std::string::String;
-    use std::vector;
     
     // Struct untuk menyimpan daftar mahasiswa
     public struct DaftarMahasiswa has key {

@@ -1,5 +1,5 @@
 module kampus::belajar_string {
-    use std::string::{Self, String};
+    use std::string::String;
     
     // Struct untuk menyimpan nama mahasiswa
     public struct Mahasiswa has key {
